@@ -120,7 +120,7 @@ The report also includes runs at σ_y = 0.01 for each degradation type, which Ta
 
 ## Sample Image
 
-![CelebA-HQ input sample used for reproduction (image.png)]
+![CelebA-HQ input sample used for reproduction](image.png)
 
 *Caption: CelebA-HQ degraded input sample (`0_0.png`) used for the deblurring/super-resolution runs above. No restored/output image was included in the source report — add one here if available.*
 
